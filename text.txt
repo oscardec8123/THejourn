@@ -7,3 +7,7 @@ The quick brown fox jumps over a lazy dog.
 The quick brown fox jumps over a lazy dog.
 
 The quick brown fox jumps over a lazy dog.
+
+This was edited with vim command, we are making progress
+
+	help me God.
